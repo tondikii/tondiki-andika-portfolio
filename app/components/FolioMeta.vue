@@ -36,9 +36,6 @@ useSeoMeta({
   author: profile.name,
   title: pageSEO.value.title,
   description: pageSEO.value.description,
-  twitterTitle: pageSEO.value.title,
-  twitterDescription: pageSEO.value.description,
-  twitterCard: 'summary_large_image',
 })
 
 useHead({

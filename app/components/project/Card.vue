@@ -37,7 +37,7 @@ const img = useImage()
         <div class="flex items-center justify-between gap-2">
           <div class="flex items-center gap-2">
             <div class="flex items-center gap-2">
-              <span class="whitespace-nowrap text-sm font-semibold text-white/90">
+              <span class="whitespace-nowrap text-sm font-semibold text-neutral-500">
                 {{ project.name }}
               </span>
               <span class="whitespace-nowrap text-xs text-neutral-500">
