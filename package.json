@@ -35,7 +35,9 @@
     "vue-sonner": "2.0.8"
   },
   "devDependencies": {
+    "@iconify/utils": "^3.0.1",
     "@nuxt/eslint-config": "1.9.0",
+    "@nuxt/icon": "^2.0.0",
     "automd": "0.4.0",
     "eslint": "9.34.0"
   },
