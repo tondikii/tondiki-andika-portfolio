@@ -8,7 +8,6 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/scripts',
     'vue-sonner/nuxt',
-    '@nuxt/icon',
   ],
 
   imports: {
@@ -123,7 +122,6 @@ export default defineNuxtConfig({
       includeCustomCollections: true,
     },
     provider: 'iconify',
-    serverBundle: false,
   },
 
   ogImage: {
