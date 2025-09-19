@@ -1,9 +1,14 @@
 {
   "items": [
+     {
+      "name": "React",
+      "link": "https://react.dev/",
+      "icon": "custom:react"
+    },
     {
-      "name": "Nuxt",
-      "link": "https://nuxt.com/",
-      "icon": "custom:nuxt"
+      "name": "Next",
+      "link": "https://nextjs.org/",
+      "icon": "custom:next"
     },
     {
       "name": "Vue",
@@ -11,9 +16,19 @@
       "icon": "custom:vue"
     },
     {
-      "name": "Nest",
-      "link": "https://nestjs.com/",
-      "icon": "custom:nest"
+      "name": "Vuetify",
+      "link": "https://vuetifyjs.com/",
+      "icon": "custom:vuetify"
+    },
+    {
+      "name": "Nuxt",
+      "link": "https://nuxt.com/",
+      "icon": "custom:nuxt"
+    },
+     {
+      "name": "Vite",
+      "link": "https://vite.dev/",
+      "icon": "custom:vite"
     },
     {
       "name": "TailwindCSS",
@@ -21,74 +36,129 @@
       "icon": "custom:tailwind"
     },
     {
+      "name": "Bootstrap",
+      "link": "https://getbootstrap.com/",
+      "icon": "custom:bootstrap"
+    },
+     {
+      "name": "MUI",
+      "link": "https://mui.com/",
+      "icon": "custom:mui"
+    },
+    {
+      "name": "AntD",
+      "link": "https://ant.design/",
+      "icon": "custom:antd"
+    },
+    {
+      "name": "Javascript",
+      "link": "https://www.javascript.com/",
+      "icon": "custom:javascript"
+    },
+    {
+      "name": "TypeScript",
+      "link": "https://www.typescriptlang.org/",
+      "icon": "custom:typescript"
+    },
+    {
+      "name": "HTML5",
+      "link": "https://html5up.net/",
+      "icon": "custom:html5"
+    },
+    {
+      "name": "CSS3",
+      "link": "https://css3.com/",
+      "icon": "custom:css3"
+    },
+     {
+      "name": "Node.js",
+      "link": "https://nodejs.org/",
+      "icon": "custom:nodejs"
+    },
+    {
+      "name": "Express.js",
+      "link": "https://expressjs.com/",
+      "icon": "custom:expressjs"
+    },
+    {
+      "name": "Koa.js",
+      "link": "https://koajs.com/",
+      "icon": "custom:koajs"
+    },
+    {
+      "name": "Nest",
+      "link": "https://nestjs.com/",
+      "icon": "custom:nest"
+    },
+    {
+      "name": "GraphQL",
+      "link": "https://graphql.org/",
+      "icon": "custom:graphql"
+    },
+    {
+      "name": "PostgreSQL",
+      "link": "https://www.postgresql.org/",
+      "icon": "custom:postgresql"
+    },
+    {
+      "name": "Sequelize",
+      "link": "https://sequelize.org/",
+      "icon": "custom:sequelize"
+    },
+    {
       "name": "Prisma",
       "link": "https://www.prisma.io/",
       "icon": "custom:prisma"
+    },
+    {
+      "name": "MongoDB",
+      "link": "https://www.mongodb.com/",
+      "icon": "custom:mongodb"
+    },
+    {
+      "name": "Redis",
+      "link": "https://redis.io/",
+      "icon": "custom:redis"
+    },
+    {
+      "name": "Supabase",
+      "link": "https://supabase.com/",
+      "icon": "custom:supabase"
+    },
+    {
+      "name": "Docker",
+      "link": "https://www.docker.com/",
+      "icon": "custom:docker"
     },
     {
       "name": "Vercel",
       "link": "https://vercel.com/",
       "icon": "custom:vercel"
     },
-    {
-      "name": "Linear",
-      "link": "https://linear.app/",
-      "icon": "custom:linear"
+     {
+      "name": "Heroku",
+      "link": "https://www.heroku.com/",
+      "icon": "custom:heroku"
+    },
+    { 
+      "name": "Git",
+      "link": "https://git-scm.com/",
+      "icon": "custom:git"
     },
     {
-      "name": "Arc",
-      "link": "https://arc.net/",
-      "icon": "custom:arc"
+      "name": "Jest",
+      "link": "https://jestjs.io/",
+      "icon": "custom:jest"
     },
     {
-      "name": "Raycast",
-      "link": "https://raycast.com/",
-      "icon": "custom:raycast"
+      "name": "Cypress",
+      "link": "https://www.cypress.io/",
+      "icon": "custom:cypress"
     },
     {
-      "name": "Notion",
-      "link": "https://www.notion.so/",
-      "icon": "custom:notion"
-    },
-    {
-      "name": "Cron",
-      "link": "https://calendar.cron.com/",
-      "icon": "custom:cron"
-    },
-    {
-      "name": "Spark",
-      "link": "https://sparkmailapp.com/",
-      "icon": "custom:spark"
-    },
-    {
-      "name": "1Password",
-      "link": "https://1password.com/",
-      "icon": "custom:onepassword"
-    },
-    {
-      "name": "Fig",
-      "link": "https://fig.io/",
-      "icon": "custom:fig"
-    },
-    {
-      "name": "Figma",
-      "link": "https://www.figma.com/",
-      "icon": "custom:figma"
-    },
-    {
-      "name": "Photoshop",
-      "link": "https://www.adobe.com/products/photoshop.html",
-      "icon": "custom:photoshop"
-    },
-    {
-      "name": "Illustrator",
-      "link": "https://www.adobe.com/products/illustrator.html",
-      "icon": "custom:illustrator"
-    },
-    {
-      "name": "Lightroom",
-      "link": "https://www.adobe.com/products/photoshop-lightroom.html",
-      "icon": "custom:lightroom"
+      "name": "Playwright",
+      "link": "https://playwright.dev/",
+      "icon": "custom:playwright"
     }
   ]
 }
